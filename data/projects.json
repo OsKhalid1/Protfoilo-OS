@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "title": "E-Commerce Platform",
+      "title": "Full-Stack Coffee E-Commerce ",
       "description": "A fullstack coffee shop website , The project includes a dynamic product system, shopping cart, search functionality, and checkout logic.",
       "image": "images/Coffee-EC-WEB.png",
       "link": "https://oskhalid1.github.io/Coffee-website/",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "title": "Task Management App",
+      "title": "HashPlus Data-Analysis & Dashboard",
       "description": "A data-driven dashboard designed to track and analyze global sales performance for HashPlus, focusing on electronics and tech gadgets. It provides actionable insights into revenue distribution, regional performance, and product category popularity.",
       "image": "images/H-P-D.B.png",
       "link": "https://github.com/OsKhalid1/HashPlus_Data-Analysis/blob/main/H-P-D.B.png",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "title": "Portfolio CMS",
+      "title": " Bank Data-Analysis & Dashboard",
       "description": "This project provides a comprehensive visual analysis of bank deposit trends based on customer demographics and financial behaviors. The dashboard aims to uncover patterns that influence a customer's decision to subscribe to a term deposit.",
       "image": "images/Depoist-D.B.png",
       "link": "https://github.com/OsKhalid1/Deposit_Data-Analysis-/blob/main/Depoist-D.B.png",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "title": "Weather Dashboard",
+      "title": "Car Dealership Data-Analysis & Dashboard",
       "description": "This project analyzes dealership data including used and new cars, sales performance, and customer demographics to provide insights for improving dealership operations and customer satisfaction.",
       "image": "images/Analysis-page1.jpg",
       "link": "https://drive.google.com/file/d/144M9rZIY9VqInQ8L8Y1-l_szvFKdhbCa/view",
