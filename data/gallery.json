@@ -1,0 +1,54 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "title": "Data Analysis with ",
+      "category": "Google Developer Student Clubs",
+      "type": "image",
+      "thumbnail": "images/Data-Analysis-Google.jpg",
+      "fullImage": "images/Data-Analysis-Google.jpg",
+      "description": "",
+      "date": "2024-12"
+    },
+    {
+      "id": 2,
+      "title": "Data Analysis with ",
+      "category": "Hash Plus",
+      "type": "image",
+      "thumbnail": "images/Data-Analysis-H-P.jpg",
+      "fullImage": "images/Data-Analysis-H-P.jpg",
+      "description": "",
+      "date": "2024-11"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Web Development  ",
+      "category": "Hash Plus",
+      "type": "image",
+      "thumbnail": "images/Fall-stack-web.jpg",
+      "fullImage": "images/Fall-stack-web.jpg",
+      "description": "",
+      "date": "2024-10"
+    },
+    {
+      "id": 4,
+      "title": "AI",
+      "category": "KSU",
+      "type": "image",
+      "thumbnail": "images/AI-Souad.jpg",
+      "fullImage": "images/AI-Souad.jpg",
+      "description": "",
+      "date": "2024-10"
+    },
+    {
+      "id": 5,
+      "title": "AI",
+      "category": "IBM Skills Builds",
+      "type": "image",
+      "thumbnail": "images/EYOUTH.png",
+      "fullImage": "images/EYOUTH.png",
+      "description": "",
+      "date": "2024-10"
+    }
+  ]
+}

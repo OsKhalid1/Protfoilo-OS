@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "A fullstack coffee shop website , The project includes a dynamic product system, shopping cart, search functionality, and checkout logic.",
+      "image": "images/Coffee-EC-WEB.png",
+      "link": "https://oskhalid1.github.io/Coffee-website/",
+      "github": "https://github.com/OsKhalid1/Coffee-website",
+      "tags": ["PHP", "MySQL", "JavaScript", "HTML5", "CSS3"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "A data-driven dashboard designed to track and analyze global sales performance for HashPlus, focusing on electronics and tech gadgets. It provides actionable insights into revenue distribution, regional performance, and product category popularity.",
+      "image": "images/H-P-D.B.png",
+      "link": "https://github.com/OsKhalid1/HashPlus_Data-Analysis/blob/main/H-P-D.B.png",
+      "github": "https://github.com/OsKhalid1/HashPlus_Data-Analysis/tree/main",
+      "tags": ["Excel", "Data Analysis","Power BI"],
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Portfolio CMS",
+      "description": "This project provides a comprehensive visual analysis of bank deposit trends based on customer demographics and financial behaviors. The dashboard aims to uncover patterns that influence a customer's decision to subscribe to a term deposit.",
+      "image": "images/Depoist-D.B.png",
+      "link": "https://github.com/OsKhalid1/Deposit_Data-Analysis-/blob/main/Depoist-D.B.png",
+      "github": "https://github.com/OsKhalid1/Deposit_Data-Analysis-",
+      "tags": ["Excel", "Data Analysis","Power BI"],
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Weather Dashboard",
+      "description": "This project analyzes dealership data including used and new cars, sales performance, and customer demographics to provide insights for improving dealership operations and customer satisfaction.",
+      "image": "images/Analysis-page1.jpg",
+      "link": "https://drive.google.com/file/d/144M9rZIY9VqInQ8L8Y1-l_szvFKdhbCa/view",
+      "github": "https://github.com/OsKhalid1/car-dealership-data-analysis",
+      "tags": ["Colab","Python","Data Analysis","Pandas","Matplotlib"],
+      "featured": true
+    }
+  ]
+}
