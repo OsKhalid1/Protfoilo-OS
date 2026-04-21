@@ -2,7 +2,7 @@
   "gallery": [
     {
       "id": 1,
-      "title": "Data Analysis with ",
+      "title": "Data Analysis ",
       "category": "Google Developer Student Clubs",
       "type": "image",
       "thumbnail": "images/Data-Analysis-Google.jpg",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "title": "Data Analysis with ",
+      "title": "Data Analysis ",
       "category": "Hash Plus",
       "type": "image",
       "thumbnail": "images/Data-Analysis-H-P.jpg",
@@ -48,6 +48,16 @@
       "thumbnail": "images/EYOUTH.png",
       "fullImage": "images/EYOUTH.png",
       "description": "",
+      "date": "2024-10"
+    },
+     {
+      "id": 6,
+      "title": "Data Science /Analysis",
+      "category": "STC",
+      "type": "image",
+      "thumbnail": "images/STC_imag.png",
+      "fullImage": "images/STC_imag.png",
+      "description": "TEst",
       "date": "2024-10"
     }
   ]
