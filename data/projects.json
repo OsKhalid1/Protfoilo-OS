@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "id": 1,
+      "id": 6,
       "title": "Full-Stack Coffee E-Commerce ",
       "description": "A fullstack coffee shop website , The project includes a dynamic product system, shopping cart, search functionality, and checkout logic.",
       "image": "images/Coffee-EC-WEB.png",
@@ -17,7 +17,7 @@
       "image": "images/H-P-D.B.png",
       "link": "https://github.com/OsKhalid1/HashPlus_Data-Analysis/blob/main/H-P-D.B.png",
       "github": "https://github.com/OsKhalid1/HashPlus_Data-Analysis/tree/main",
-      "tags": ["Excel", "Data Analysis","Power BI"],
+      "tags": ["Excel", "Data Analysis","Pivot Table","Power Query","Power BI"],
       "featured": true
     },
     {
@@ -27,7 +27,7 @@
       "image": "images/Depoist-D.B.png",
       "link": "https://github.com/OsKhalid1/Deposit_Data-Analysis-/blob/main/Depoist-D.B.png",
       "github": "https://github.com/OsKhalid1/Deposit_Data-Analysis-",
-      "tags": ["Excel", "Data Analysis","Power BI"],
+      "tags": ["Excel", "Data Analysis","Pivot Table","Power Query","Power BI"],
       "featured": true
     },
     {
@@ -38,6 +38,15 @@
       "link": "https://drive.google.com/file/d/144M9rZIY9VqInQ8L8Y1-l_szvFKdhbCa/view",
       "github": "https://github.com/OsKhalid1/car-dealership-data-analysis",
       "tags": ["Colab","Python","Data Analysis","Pandas","Matplotlib"],
+      "featured": true
+    },
+       {
+      "id": 1,
+      "title": "STC DATA Science/Analysis",
+      "description": "virtual work experience program in Data Analytics and Data Science, with a strong focus on using Python across all stages of the data processing lifecycle. The program covers data collection, cleaning, and analysis, as well as trend prediction using machine learning techniques.It also includes the use of specialized Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization, in addition to creating reports and dashboards to present insights clearly and support decision-making.",
+      "image": "images/STC_imag.png",
+      "link": "https://drive.google.com/file/d/1Mq2E_krBs0pKMi6jubQmgzIW5KZRB_3f/view?usp=sharing",
+      "tags": ["Excel", "Data Analysis","Anaconda","Python","ML","Pandas","Matplotlib"],
       "featured": true
     }
   ]
