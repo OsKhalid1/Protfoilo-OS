@@ -19,6 +19,24 @@
       "fullImage": "images/Data-Analysis-H-P.jpg",
       "description": "",
       "date": "2024-11"
+    }, {
+      "id": 3,
+      "title": "Data Science /Analysis",
+      "category": "STC",
+      "type": "image",
+      "thumbnail": "images/STC_CR.png",
+      "fullImage": "images/STC_CR.png",
+      "description": "TEst",
+      "date": "2024-10"
+    },{
+      "id": 4,
+      "title": "AI",
+      "category": "KSU",
+      "type": "image",
+      "thumbnail": "images/AI-Souad.jpg",
+      "fullImage": "images/AI-Souad.jpg",
+      "description": "",
+      "date": "2024-10"
     },
     {
       "id": 5,
@@ -31,16 +49,6 @@
       "date": "2024-10"
     },
     {
-      "id": 4,
-      "title": "AI",
-      "category": "KSU",
-      "type": "image",
-      "thumbnail": "images/AI-Souad.jpg",
-      "fullImage": "images/AI-Souad.jpg",
-      "description": "",
-      "date": "2024-10"
-    },
-    {
       "id": 6,
       "title": "AI",
       "category": "IBM Skills Builds",
@@ -48,16 +56,6 @@
       "thumbnail": "images/EYOUTH.png",
       "fullImage": "images/EYOUTH.png",
       "description": "",
-      "date": "2024-10"
-    },
-     {
-      "id": 3,
-      "title": "Data Science /Analysis",
-      "category": "STC",
-      "type": "image",
-      "thumbnail": "images/STC_imag.png",
-      "fullImage": "images/STC_imag.png",
-      "description": "TEst",
       "date": "2024-10"
     }
   ]
